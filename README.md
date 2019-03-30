@@ -1,5 +1,5 @@
-# MBProgressHUDForSwift3.0
-MBProgressHUDForSwift3.0
+# MBProgressHUDForSwift
+MBProgressHUDForSwift
 
 MBProgress是我非常喜欢用的一个提示组件,GitHub上有更新到Swift2.0版本的(https://github.com/powfulhong/MBProgressHUDForSwift).
 奈何作者似乎并没有继续更新的意思,没办法只能手动更新了,直接上代码,希望对小伙伴们有所帮助.
